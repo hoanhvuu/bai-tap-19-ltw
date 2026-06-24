@@ -66,12 +66,12 @@ header {
     object-fit: cover;
 }
 
-.face1 { transform: rotateY(0deg) translateZ(180px); }
-.face2 { transform: rotateY(60deg) translateZ(180px); }
-.face3 { transform: rotateY(120deg) translateZ(180px); }
-.face4 { transform: rotateY(180deg) translateZ(180px); }
-.face5 { transform: rotateY(240deg) translateZ(180px); }
-.face6 { transform: rotateY(300deg) translateZ(180px); }
+.face1 { transform: rotateY(0deg) translateZ(173px); }
+.face2 { transform: rotateY(60deg) translateZ(173px); }
+.face3 { transform: rotateY(120deg) translateZ(173px); }
+.face4 { transform: rotateY(180deg) translateZ(173px); }
+.face5 { transform: rotateY(240deg) translateZ(173px); }
+.face6 { transform: rotateY(300deg) translateZ(173px); }
 
 hr {
     border: 0;
